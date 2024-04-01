@@ -2,7 +2,7 @@
 Date 2024/04/1
 #### By Ephy muiruri Wachira
 ## Goals
-**solve the Following**
+**solve the Following:**
 # Challenge 1 
 Write a function that accepts a string as input and swaps the case of each character.This challenge has been solved in file `indexQ1.js`
 ## Description `index1Q1.js`
